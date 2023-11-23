@@ -25,3 +25,5 @@ if (mysqli_query($koneksi, $query)) {
 mysqli_close($koneksi);
 
 echo "<script>window.location='./index.php'</script>";
+
+?>
