@@ -102,7 +102,7 @@ select::after {
     transition: color 0.3s;
 }
 
-/* Style for options */
+
 select option {
     padding: 15px;
     background-color: #fff;
@@ -180,13 +180,13 @@ input[type="date"] {
     transition: border-color 0.3s;
 }
 
-/* Style for focused date input */
+
 input[type="date"]:focus {
     outline: none;
     border-color: #BEADFA;
 }
 
-/* Style for date input when a date is selected */
+
 input[type="date"]:valid {
     background-color: #FF8080;
 }
